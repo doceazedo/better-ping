@@ -1,0 +1,13 @@
+{
+  "name": "better-ping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cat-loggr": "^1.2.2",
+    "minimist": "^1.2.5",
+    "ping": "^0.4.1"
+  },
+  "engines": {
+    "node": "^16 || ^15 || ^14 || ^13 || ^12 || ^11 || ^10 || ^9 || ^8 || ^7 || ^6 || ^5 || ^4"
+  }
+}
