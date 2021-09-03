@@ -1,7 +1,7 @@
 # 🏓 better-ping
 This is a simply enhanced `ping` wrapper that will check your internet connection and print its status and latency with a timestamp every second.
 
-![](https://i.imgur.com/KrXa27V.png)
+![](https://i.imgur.com/swpedQ5.png)
 
 ## Installation
 This is very straightforward, just be sure to have [Node.js](https://nodejs.org/en) installed and you will be good to go.
